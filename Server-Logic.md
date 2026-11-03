@@ -4,11 +4,10 @@
 ---
 |Method | Description |
 |---|---|
-|Server.Logger.Log("Information message"); | |
-|Server.Logger.Warn("Warning message"); | |
-|Server.Logger.Error(errorMsg); | |
+|Server.Logger.Log("Information message"); | Log information mesage|
+|Server.Logger.Warn("Warning message"); |Log warning message |
+|Server.Logger.Error("Error message"); |Log Error message |
 |Server.Context.QueryParameters["id"] | |
-|Server.Logger.Log("GET called") | |
 |const CLIENT_ID = Server.SiteSetting.Get("CLIENT_ID"); |Read Site Setting values from current website |
 |let response = await Server.Connector.HttpClient.GetAsync(url, header); | |
 | let response = await Server.Connector.HttpClient.PostAsync(url, body, header, contentType);| |
