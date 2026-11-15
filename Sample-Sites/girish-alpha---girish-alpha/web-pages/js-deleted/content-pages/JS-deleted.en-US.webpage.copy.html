@@ -1,0 +1,17 @@
+<div class="row sectionBlockLayout text-start" style="min-height: auto; padding: 8px;">
+  <div class="container" style="display: flex; flex-wrap: wrap;">
+    <div class="col-lg-12 columnBlockLayout" style="padding: 16px; margin: 60px 0px; min-height: 200px;"></div>
+  </div>
+
+  <script>
+    shell.ajax.safePost({
+      type: 'GET', // or POST, PUT, etc.
+      url: '/_api/serverlogics/phi-context',
+      contentType: 'application/json',
+      success: function (data) {
+        console.log("Server response:", data);
+      }
+    });
+
+  </script>
+</div>

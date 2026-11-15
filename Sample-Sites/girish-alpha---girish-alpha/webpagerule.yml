@@ -1,6 +1,13 @@
 - adx_name: Grant Change to Content
   adx_right: 1
   adx_webpageaccesscontrolruleid: 365b558a-19aa-41d2-b865-6f998053e982
+- adx_name: Restrict Read on Greek
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - b2435a1c-2ab8-460b-8b5a-0ae5d9440c30
+  adx_webpageaccesscontrolruleid: 48585c8a-d39c-f7b4-0b7b-968a449803f3
+  adx_webpageid: 867cd149-c9b0-61c4-3af1-3c7811e1863f
 - adx_name: Grant Change to Administrators
   adx_right: 1
   adx_webpageaccesscontrolrule_webrole:

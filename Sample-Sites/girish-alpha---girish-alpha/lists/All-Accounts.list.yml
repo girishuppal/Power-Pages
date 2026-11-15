@@ -1,0 +1,969 @@
+adx_emptylisttext: ''
+adx_entitylistid: aef11814-d733-4b60-9d98-a5c970639cd6
+adx_entityname: account
+adx_entitypermissionsenabled: true
+adx_filter_enabled: false
+adx_idquerystringparametername: id
+adx_map_distancevalues: 5,10,25,50,100
+adx_map_infoboxoffsety: 46
+adx_map_pushpinheight: 39
+adx_map_resturl: https://dev.virtualearth.net/REST/v1/Locations
+adx_map_zoom: 12
+adx_name: All Accounts
+adx_pagesize: 10
+adx_searchenabled: true
+adx_searchplaceholdertext: ''
+adx_settings: >-
+  {
+    "Type": "CrmEntityFormView-GridMetadata",
+    "ViewFormats": [],
+    "ViewActions": [],
+    "ExtendedViewActions": [],
+    "ItemActions": [],
+    "ExtendedItemActions": [],
+    "ColumnOverrides": [],
+    "LoadingMessage": [
+      {
+        "Type": "LanguageResources",
+        "LCID": 1033,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1031,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1043,
+        "Value": ""
+      }
+    ],
+    "ErrorMessage": [
+      {
+        "Type": "LanguageResources",
+        "LCID": 1033,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1031,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1043,
+        "Value": ""
+      }
+    ],
+    "AccessDeniedMessage": [
+      {
+        "Type": "LanguageResources",
+        "LCID": 1033,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1031,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1043,
+        "Value": ""
+      }
+    ],
+    "EmptyMessage": [
+      {
+        "Type": "LanguageResources",
+        "LCID": 1033,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1031,
+        "Value": ""
+      },
+      {
+        "Type": "LanguageResources",
+        "LCID": 1043,
+        "Value": ""
+      }
+    ],
+    "DetailsFormDialog": {
+      "Type": "CrmEntityFormView-DetailsFormModal",
+      "LoadingMessage": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 1,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "EditFormDialog": {
+      "Type": "CrmEntityFormView-EditFormModal",
+      "LoadingMessage": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 1,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "CreateRelatedRecordDialog": {
+      "Type": "CreateRelatedRecordModal",
+      "LoadingMessage": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 1,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "CreateFormDialog": {
+      "Type": "CrmEntityFormView-CreateFormModal",
+      "LoadingMessage": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 1,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "DeleteDialog": {
+      "Type": "CrmEntityFormView-GridDeleteModal",
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 0,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "WorkflowDialog": {
+      "Type": "WorkflowModal",
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 0,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "ErrorDialog": {
+      "Type": "CrmEntityFormView-ErrorModal",
+      "Body": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 0,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "CssClass": "",
+    "GridCssClass": "table-striped",
+    "GridColumnWidthStyle": 1,
+    "ActivateDialog": {
+      "Type": "ActivateModal",
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 0,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "DeactivateDialog": {
+      "Type": "DeactivateModal",
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 0,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    },
+    "GetDirectionsDialog": {
+      "Type": "GetDirectionsModal",
+      "Title": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "PrimaryButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "CloseButtonText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "DismissButtonSrText": [
+        {
+          "Type": "LanguageResources",
+          "LCID": 1033,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1031,
+          "Value": ""
+        },
+        {
+          "Type": "LanguageResources",
+          "LCID": 1043,
+          "Value": ""
+        }
+      ],
+      "Size": 1,
+      "CssClass": "",
+      "TitleCssClass": "",
+      "PrimaryButtonCssClass": "",
+      "CloseButtonCssClass": ""
+    }
+  }
+adx_view: 65ffaf9a-e8c5-432d-860b-32f841b00d87
+adx_views: >-
+  {
+    "Type": "ViewMetadata",
+    "Views": [
+      {
+        "Type": "View",
+        "DisplayName": [
+          {
+            "Type": "LanguageResources",
+            "LCID": 1033,
+            "Value": ""
+          },
+          {
+            "Type": "LanguageResources",
+            "LCID": 1031,
+            "Value": ""
+          },
+          {
+            "Type": "LanguageResources",
+            "LCID": 1043,
+            "Value": ""
+          }
+        ],
+        "ViewId": "65ffaf9a-e8c5-432d-860b-32f841b00d87"
+      }
+    ]
+  }

@@ -1,5 +1,9 @@
 - adx_name: Authentication/OpenAuth/LinkedIn/ConsumerSecret
   adx_sitesettingid: 03130064-3b2b-4f44-b657-91345b785586
+- adx_name: ServerLogic/AllowedDomains
+  adx_sitesettingid: 05489b5f-95d8-f111-84e8-7c1e522b2811
+  adx_source: 0
+  adx_value: '*'
 - adx_description: Enables or disables Azure AD as an external identity provider. By default, it is set to true.
   adx_name: Authentication/Registration/AzureADLoginEnabled
   adx_sitesettingid: 086a9824-0542-442c-9217-d4db4405b50d
@@ -36,6 +40,10 @@
   adx_name: Authentication/Registration/TermsAgreementEnabled
   adx_sitesettingid: 37a6959c-56ea-42b7-be52-21ca1b14e35d
   adx_value: false
+- adx_name: UserTrace/Debug
+  adx_sitesettingid: 39986080-5fd3-f111-84e8-7c1e522b2811
+  adx_source: 0
+  adx_value: True
 - adx_description: 'The amount of time the Authentication/LoginThrottling/MaxInvaildAttemptsFromIPAddress are to be within before the IP address has to wait Authentication/LoginThrottling/IpAddressTimeoutTimeSpan. Default: 00:05:00 (5 mins)'
   adx_name: Authentication/LoginThrottling/MaxAttemptsTimeLimitTimeSpan
   adx_sitesettingid: 3d8f112b-57f2-40cc-a7cf-70e624baafd2
@@ -99,6 +107,10 @@
   adx_name: Footer/OutputCache/Enabled
   adx_sitesettingid: 955f9aa3-f381-4423-a968-d5b0236c8c3d
   adx_value: True
+- adx_name: ServerLogic/AllowNetworkingToAllDomains
+  adx_sitesettingid: 9582dd8d-95d8-f111-84e8-7c1e522b2811
+  adx_source: 0
+  adx_value: True
 - adx_description: >-
     A collection of search logical name filter options. Defining a value here will add dropdown filter options to site-wide search.
 
@@ -148,6 +160,10 @@
 - adx_name: Search/IndexQueryName
   adx_sitesettingid: dddf1e92-edc8-4224-a286-9c6ba1bf51b6
   adx_value: Portal Search
+- adx_name: ServerLogic/Enabled
+  adx_sitesettingid: e12d0b4f-95d8-f111-84e8-7c1e522b2811
+  adx_source: 0
+  adx_value: true
 - adx_description: 'The amount of time the IP address will have to wait if Authentication/LoginThrottling/MaxInvaildAttemptsFromIPAddress occur within Authentication/LoginThrottling/MaxAttemptsTimeLimitTimeSpan amount of time. Default: 00:15:00 (15 mins)'
   adx_name: Authentication/LoginThrottling/IpAddressTimeoutTimeSpan
   adx_sitesettingid: e48437b0-a4b2-40fb-991e-8b75a14b4a3b
@@ -156,6 +172,11 @@
   adx_name: CustomerSupport/DisplayAllUserActivitiesOnTimeline
   adx_sitesettingid: e89d34cd-df8f-4b2f-8b1c-3f86b2dd7295
   adx_value: false
+- adx_description: Can increased to 240
+  adx_name: ServerLogic/TimeoutinSeconds
+  adx_sitesettingid: ee76ea7b-95d8-f111-84e8-7c1e522b2811
+  adx_source: 0
+  adx_value: 120
 - adx_name: Authentication/OpenIdConnect/AzureAD/Caption
   adx_sitesettingid: f0598355-cfd1-f111-a05b-7c1e522b2811
   adx_value: Microsoft Entra ID

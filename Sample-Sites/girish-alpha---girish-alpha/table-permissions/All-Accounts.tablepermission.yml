@@ -1,0 +1,16 @@
+adx_accountrelationship: 
+adx_append: false
+adx_appendto: false
+adx_contactrelationship: 
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: account
+adx_entityname: All Accounts
+adx_entitypermission_webrole:
+- b2435a1c-2ab8-460b-8b5a-0ae5d9440c30
+adx_entitypermissionid: dc538f81-f0d5-42c3-8c73-3557983acb3f
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: false

@@ -1,3 +1,81 @@
+- adx_displayimageonly: false
+  adx_displayorder: 8
+  adx_displaypagechildlinks: false
+  adx_name: SL
+  adx_openinnewwindow: false
+  adx_pageid: 94ed6e3d-d792-bb38-3ee8-8d0d08c40a05
+  adx_parentweblinkid: 
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: 000d30dc-0592-d15d-e993-47cba29e17b5
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 9
+  adx_displaypagechildlinks: false
+  adx_name: Greek-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 867cd149-c9b0-61c4-3af1-3c7811e1863f
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: 1a009fec-6646-dc8e-bf12-e96da4e39228
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_name: SL-02
+  adx_openinnewwindow: false
+  adx_pageid: d426c799-ba46-4b2d-37c5-64bebe45e51e
+  adx_parentweblinkid: 000d30dc-0592-d15d-e993-47cba29e17b5
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: 327a1a94-2c3d-a515-ceaa-f04f3cd019a3
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_name: Web-Page Template Demo
+  adx_openinnewwindow: false
+  adx_pageid: 0ee24c5e-05c6-1c49-68e8-852fc423e720
+  adx_parentweblinkid: 5c80f52a-6859-4b0e-e70a-9f70f523ba7c
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: 3577e367-f125-1267-f9d8-b463e916f443
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 9
+  adx_displaypagechildlinks: false
+  adx_name: DEMO
+  adx_openinnewwindow: false
+  adx_pageid: 7b493123-1aa9-5a9c-e9a3-ae3b2e33cac2
+  adx_parentweblinkid: 
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: 5c80f52a-6859-4b0e-e70a-9f70f523ba7c
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 4
+  adx_displaypagechildlinks: false
+  adx_name: Accounts
+  adx_openinnewwindow: false
+  adx_pageid: 0316c41d-3cfb-168a-7eda-dbc174dc7259
+  adx_parentweblinkid: 5c80f52a-6859-4b0e-e70a-9f70f523ba7c
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: a6237a9a-c098-da24-d156-629fe061ad42
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 5
+  adx_displaypagechildlinks: false
+  adx_name: Contacts
+  adx_openinnewwindow: false
+  adx_pageid: 0f0917a4-8e25-1cfc-7990-d8679510fc98
+  adx_parentweblinkid: 5c80f52a-6859-4b0e-e70a-9f70f523ba7c
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: b80923cc-f7f8-80ba-7c84-c4bb6188fa2e
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
 - adx_disablepagevalidation: false
   adx_displayimageonly: false
   adx_displayorder: 1
@@ -8,4 +86,38 @@
   adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
   adx_robotsfollowlink: true
   adx_weblinkid: cbc02dff-03dd-4383-92f3-8fb0878469f0
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_name: SL-01
+  adx_openinnewwindow: false
+  adx_pageid: 4e10716d-f222-3d2b-9389-90e72e64fd56
+  adx_parentweblinkid: 000d30dc-0592-d15d-e993-47cba29e17b5
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: d66152c6-d06f-b53e-edb3-88cfb3118845
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+- adx_displayimageonly: false
+  adx_displayorder: 8
+  adx_displaypagechildlinks: false
+  adx_name: JS-deleted
+  adx_openinnewwindow: false
+  adx_pageid: d3f38ec3-1d27-5cd7-3e59-4c3d143fb672
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: d93e1a39-3e20-22f5-b572-2d82dc11a5f5
+  adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_name: Server Logic
+  adx_openinnewwindow: false
+  adx_pageid: 70a29f1f-4824-3e74-d6d3-9a7c49346faa
+  adx_parentweblinkid: 5c80f52a-6859-4b0e-e70a-9f70f523ba7c
+  adx_publishingstateid: c605d802-0a3a-4e2a-bd19-0b3ddb503ba7
+  adx_robotsfollowlink: true
+  adx_weblinkid: f58e3708-b07c-1a8d-c77d-9c625526a610
   adx_weblinksetid: 18872020-788b-4f4d-818a-ca93a912ed06
