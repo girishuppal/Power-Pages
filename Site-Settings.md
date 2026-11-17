@@ -10,6 +10,19 @@
 |ServerLogic/AllowNetworkingToAllDomains |Allow networking across domains |(true or false) |
 | | | |
 
+>**Web API**
+
+|Site Settings |Description | Value |
+|---|---|---|
+|WebApi/Enabled | | true / false|
+|WebApi/error/innererror | |true / false |
+|WebApi/EntityPermissionsEnabled | |true / false |
+|WebApi/xx_yyy/disableodatafilter | |true / false |
+|WebApi/xx_yytable/enabled | |true / false |
+|WebApi/xx_yytable/fields | | true / false|
+|Authentication/Registration/WebApi | |true / false |
+
+
 >**Others**
 
 |Site Settings |Description | Value |
