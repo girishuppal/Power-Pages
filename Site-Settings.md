@@ -10,8 +10,9 @@
 |ServerLogic/AllowNetworkingToAllDomains |Allow networking across domains |(true or false) |
 | | | |
 
+>**Others**
 
 |Site Settings |Description | Value |
 |---|---|---|
 |DateTime/DateFormat| Date format display change |
-| | | |
+|UserTrace/Debug |Enable Diagnostic settings for Power Pages site |true / false |
